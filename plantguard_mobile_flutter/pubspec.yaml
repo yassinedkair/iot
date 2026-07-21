@@ -1,0 +1,24 @@
+name: plantguard_mobile
+description: "PlantGuard AI Pro - application mobile de diagnostic des maladies de plantes"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.1
+  camera: ^0.10.5+9
+  permission_handler: ^11.3.1
+  flutter_secure_storage: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

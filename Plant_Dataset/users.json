@@ -1,0 +1,8 @@
+{
+  "yassine": {
+    "username": "yassine",
+    "email": "",
+    "password_hash": "scrypt:32768:8:1$SJBPwrzEPLNg08VE$b5129e8c2e5e0890786e12f8ed05d9cee0109e42dbcd915e4785cf258e86c477365aafbd710d03d2336711ebf260b4a9330a05960431d2166ca0c2ff9c78c5eb",
+    "created_at": "19-07-2026 16:15:23"
+  }
+}

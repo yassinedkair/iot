@@ -1,0 +1,10 @@
+<!--
+  ⚠️ Ceci est un EXTRAIT à fusionner dans le Info.plist généré par `flutter create`.
+  Ajoute cette clé au niveau racine du dictionnaire (car le serveur Flask
+  tourne en HTTP local, pas en HTTPS ; iOS bloque le HTTP par défaut).
+-->
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
